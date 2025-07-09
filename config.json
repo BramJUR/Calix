@@ -1,0 +1,7 @@
+{
+    "imap_server": "mail.axc.nl",
+    "imap_port": 993,
+    "email_user": "bram.jurrius@handsfreedancing.nl",
+    "drafts_folder": "Emails to send",
+    "gsheet_url": "https://docs.google.com/spreadsheets/d/1yu-NGG58Dyg-x5XesHANOp_RzBJVxYcLhrkeugofFJ0/edit?usp=sharing"
+}
