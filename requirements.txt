@@ -1,0 +1,6 @@
+pandas
+openai
+gspread
+gspread-dataframe
+numpy
+notion-client
